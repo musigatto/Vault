@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beethoven/Lista cambios.md",
+                "file": "serradilla_alberto_ejercicioOSINT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lista cambios"
+              "title": "serradilla_alberto_ejercicioOSINT"
             }
           }
         ],
@@ -221,11 +221,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "add3c26d8921029f",
   "lastOpenFiles": [
+    "serradilla_alberto_ejercicioOSINT.md",
+    "Untitled.md",
+    "a.md",
+    "Santander.md",
     "Beethoven/Lista cambios.md",
     "Beethoven/attachments/{1D881C69-9EF6-4A16-AD3D-8355722F4FED}.png",
     "Beethoven/attachments/{656F842A-F0C7-4E40-9D7C-98BD0C43BDF3}.png",
@@ -240,8 +247,6 @@
     "Beethoven/attachments/{0176195E-1F0B-4B76-AB4E-3D61DCC722C5}.png",
     "Beethoven/attachments/{4C6D530F-0DD3-42CF-BE05-00267DB5F42C} 1.png",
     "Beethoven/attachments/{4C6D530F-0DD3-42CF-BE05-00267DB5F42C}.png",
-    "serradilla_alberto_ejercicioOSINT.md",
-    "Santander.md",
     "Beethoven/orquestacion_cuarteto.md",
     "Music/Miscelánea/Miscelánea.md",
     "Music/Miscelánea/Buscar buena guitarra.md",
@@ -270,7 +275,6 @@
     "Oposiciones TAI/Tema 24. Administración del SO y software de base.md",
     "Oposiciones TAI/Flashcards/Flashcards - Tema 24.md",
     "Oposiciones Guitarra/Tema 34. TIC.md",
-    "Oposiciones TAI/Índice.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",

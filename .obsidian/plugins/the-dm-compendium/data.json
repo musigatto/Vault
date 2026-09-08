@@ -1,0 +1,13 @@
+{
+  "includedSources": [
+    "PHB",
+    "XPHB",
+    "TCE",
+    "XGE",
+    "MPMM",
+    "MM",
+    "XMM",
+    "DMG",
+    "XDMG"
+  ]
+}
