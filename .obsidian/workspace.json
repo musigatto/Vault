@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "serradilla_alberto_ejercicioOSINT.md",
+                "file": "Enigma2086/Tema 1 - Network Attacks and Defense Strategies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "serradilla_alberto_ejercicioOSINT"
+              "title": "Tema 1 - Network Attacks and Defense Strategies"
             }
           }
         ],
@@ -202,8 +202,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -221,12 +221,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "add3c26d8921029f",
+  "active": "484521da0abf023e",
   "lastOpenFiles": [
+    "Enigma2086/Logística iLabs.md",
+    "Enigma2086/Pendiente.md",
+    "Enigma2086/Logística del Curso.md",
+    "Enigma2086/Formación y Certificados.md",
+    "Enigma2086/Extra.md",
+    "Enigma2086/Examen CEH Practical.md",
+    "Enigma2086/Examen - Logística.md",
+    "Enigma2086/Examen.md",
+    "Enigma2086/Enigma2086.md",
+    "Enigma2086/Culturilla Hacker.md",
     "serradilla_alberto_ejercicioOSINT.md",
+    "Enigma2086/Tema 2 - Administrative Network Security.md",
+    "Enigma2086/Tema 2 - Labs.md",
+    "Enigma2086/Tema 1 - Network Attacks and Defense Strategies.md",
+    "Enigma2086/Tema 1 - Labs.md",
+    "Enigma2086/Programa CPE.md",
+    "Enigma2086",
     "Untitled.md",
     "a.md",
     "Santander.md",
@@ -247,17 +266,8 @@
     "Beethoven/orquestacion_cuarteto.md",
     "Music/Miscelánea/Miscelánea.md",
     "Music/Miscelánea/Buscar buena guitarra.md",
-    "Music/Miscelánea/Año estudiando.md",
-    "Music/Miscelánea/Research.md",
-    "Music/Miscelánea/Musicales en España.md",
-    "Music/Flamenco Dominantes y palos.md",
-    "serradilla_alberto_ejercicioMETASPLOIT.md",
     "attachments",
-    "EJERCICIOS METASPLOIT.md",
-    "serradilla_alberto_ejercicioWeb.md",
     "Beethoven/images",
-    "Beethoven/serradilla_alberto_ejercicioWeb.md",
-    "orquestacion_cuarteto.md",
     "Beethoven/attachments",
     "Beethoven",
     "images",
@@ -265,13 +275,6 @@
     "Beethoven/cuarteto_ivmov.xml",
     "Beethoven/cuarteto_ivmov.mscz",
     "Beethoven/cuarteto_fugue.xml",
-    "Beethoven/cuarteto_fugue.mscz",
-    "Oposiciones TAI/Tema 13. Sistemas operativos.md",
-    "Oposiciones TAI/AGENTS.md",
-    "Music/0. Navigation.md",
-    "Oposiciones TAI/Tema 24. Administración del SO y software de base.md",
-    "Oposiciones TAI/Flashcards/Flashcards - Tema 24.md",
-    "Oposiciones Guitarra/Tema 34. TIC.md",
     "Proyecto/Phases.canvas",
     "CyberTesting/CheatSheets/Cheatsheet Canvas.canvas",
     "Chemistry/Periodic Table.canvas",
