@@ -3,8 +3,6 @@
 ---
 ![0. Navigation](../0.%20Navigation.md)
 
-![](attachments/Cadencia_General_Bsica.jpg)
-
 $$I - V - I$$  
 $$I - IV - V - I$$  
 $$I - IV - ii - V - I$$  
@@ -19,3 +17,5 @@ $$\text{Menores: }I - iii - III^7_+ - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - 
 $$i - \flat VII - \flat VI - V$$  
 $$i - \flat III - V - \flat VII - i$$  
 $$i - \flat II^6 - \flat III - V - i$$  
+
+![](attachments/Cadencia_General_Bsica.jpg)
