@@ -14,9 +14,9 @@ Células A y B
 
 **Puente Modulante a relativo**
 
-| $I - IV$ | $VII^6_4 - VII7$ | $III$ |
-| --- | --- | --- |
-| <u>Nueva tonalidad</u> → | $V^6_4 - V7$ | $I$ |
+| $I - IV$                 | $VII^6_4 - VII7$ | $III$ |
+| ------------------------ | ---------------- | ----- |
+| <u>Nueva tonalidad</u> → | $V^6_4 - V7$     | $I$   |
 
 **Puente Modulante a dte**
 $I - \#[I]^\circ (Do\#mi sol) -V^6_4 -V^{7+}$

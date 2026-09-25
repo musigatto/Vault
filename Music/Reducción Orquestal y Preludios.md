@@ -9,7 +9,7 @@
 
 Pedal dte
 
-$V7 - (II)^ø7 - 6/4 - V7$
+$V7 - (II)^ø7 - V^6_4 - V7$
 
 ## Expo
 
