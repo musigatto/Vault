@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 9
+bloque: I
+---
 > Tema 9. Instrumentos para el acceso electrónico a las Administraciones públicas: sedes electrónicas, canales y puntos de acceso, identificación y autenticación. Infraestructuras y servicios comunes en materia de administración electrónica.
 
 ## Normativa principal

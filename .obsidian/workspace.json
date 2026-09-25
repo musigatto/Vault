@@ -11,13 +11,15 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/0. MOC.base",
-                "viewName": "Temas"
+                "file": "Music/Cadencia General Básica.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "0. MOC"
+              "icon": "lucide-file",
+              "title": "Cadencia General Básica"
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oposiciones Guitarra/0. MOC.base",
+                "file": "Music/Cadencia General Básica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oposiciones Guitarra/0. MOC.base",
+                "file": "Music/Cadencia General Básica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -118,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oposiciones Guitarra/0. MOC.base",
+                "file": "Music/Cadencia General Básica.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -133,7 +135,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Oposiciones Guitarra/0. MOC.base"
+                "file": "Music/Cadencia General Básica.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -172,8 +174,15 @@
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Programación Didáctica.md",
+    "Oposiciones TAI/0. MOC.base",
+    "Music/1. Guía de Estudio Musical.md",
+    "Music/Cadencia General Básica.md",
+    "Music/Escalas.md",
+    "Music/Flamenco Dominantes y palos.md",
+    "Music/Jazz.md",
+    "Music/0. Navigation.md",
     "Oposiciones Guitarra/0. MOC.base",
+    "Oposiciones Guitarra/Programación Didáctica.md",
     "Oposiciones Guitarra/0. Temas Oposiciones.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
@@ -192,12 +201,6 @@
     "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
     "Oposiciones Guitarra/Tema 18. Siglo XX.md",
     "Oposiciones Guitarra/Tema 23. La guitarra como instrumento acompañante, tanto en las tradiciones populares como en la música culta.md",
-    "Oposiciones Guitarra/Tema 26. Criterios y repertorio.md",
-    "Oposiciones Guitarra/Tema 15. La escuela española.md",
-    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
-    "Oposiciones Guitarra/Tema 34. TIC.md",
-    "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
-    "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
     "Enigma2086",
     "Beethoven/attachments/{1D881C69-9EF6-4A16-AD3D-8355722F4FED}.png",
     "Beethoven/attachments/{656F842A-F0C7-4E40-9D7C-98BD0C43BDF3}.png",

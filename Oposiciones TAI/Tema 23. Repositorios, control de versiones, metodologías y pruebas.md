@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 23
+bloque: III
+---
 > Repositorios: estructura y actualización. Generación de código y documentación. Metodologías de desarrollo. Pruebas. Programas para control de versiones. Plataformas de desarrollo colaborativo de software.
 
 ## 1. Metodologías de Desarrollo

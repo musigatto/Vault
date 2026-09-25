@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 13
+bloque: II
+---
 > Sistemas operativos. Características y elementos constitutivos. Sistemas Windows. Sistemas Unix y Linux. Sistemas operativos para dispositivos móviles.
 
 ## 1. Sistemas Operativos: Características y Elementos Constitutivos

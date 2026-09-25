@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.folder == "Oposiciones TAI"
+views:
+  - type: table
+    name: Temario
+    filters:
+      and:
+        - tipo == "tema"
+    order:
+      - numero
+      - file.name
+      - bloque
+      - file.mtime
+    sort:
+      - property: numero
+        direction: ASC
+    columnSize:
+      note.numero: -19
+      file.name: 506
+  - type: table
+    name: Por bloques
+    filters:
+      and:
+        - tipo == "tema"
+    groupBy:
+      property: bloque
+      direction: ASC
+    order:
+      - numero
+      - file.name
+      - file.mtime
+  - type: table
+    name: Suplementos y preguntas
+    filters:
+      or:
+        - tipo == "suplemento"
+        - tipo == "preguntas"
+    order:
+      - file.name
+      - tipo
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 21
+bloque: III
+---
 > Aplicaciones web. Desarrollo web front-end y en servidor, multiplataforma y multidispositivo. Lenguajes: HTML, XML y sus derivaciones. Navegadores y lenguajes de programación web. Lenguajes de script.
 
 ## 1. Aplicaciones Web

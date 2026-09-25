@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 10
+bloque: II
+---
 >Informática básica. Representación y comunicación de la información: elementos constitutivos de un sistema de información. Características y funciones. Arquitectura de ordenadores. Componentes internos de los equipos microinformáticos.
 # 1. Concepto de dato e información
 ### Dato

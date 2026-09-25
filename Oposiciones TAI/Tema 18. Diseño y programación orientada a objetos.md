@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 18
+bloque: III
+---
 > Diseño y programación orientada a objetos. Elementos y componentes software: objetos, clases, herencia, métodos, sobrecarga. Ventajas e inconvenientes. Patrones de diseño y lenguaje de modelado unificado (UML).
 
 ## 1. Programación Orientada a Objetos (POO)

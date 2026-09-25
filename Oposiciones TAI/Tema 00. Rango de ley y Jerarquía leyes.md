@@ -1,3 +1,8 @@
+---
+tipo: suplemento
+numero: 0
+area: contexto_normativo
+---
 # Rango de Ley
 ## Constitución
 • Constitución:

@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 2
+bloque: I
+---
 > Las Cortes Generales, atribuciones del Congreso de los Diputados y del Senado. El Tribunal Constitucional, composición y atribuciones. El Defensor del Pueblo
 ## Título III: De las Cortes Generales
 ### CAPITULO PRIMERO. De las Cámaras

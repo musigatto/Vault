@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 3
+bloque: I
+---
 ## Título IV: Del Gobierno y de la Administración
 #####  Art. 97: Funciones del Gobierno
 - Dirige la política interior y exterior, la defensa del Estado y la Administración civil y

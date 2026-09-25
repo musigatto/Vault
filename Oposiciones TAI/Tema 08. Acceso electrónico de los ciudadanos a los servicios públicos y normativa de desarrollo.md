@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 8
+bloque: I
+---
 > Tema 8. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo. La gestión electrónica de los procedimientos administrativos: registros, notificaciones y uso de medios electrónicos. Esquema Nacional de Seguridad y de Interoperabilidad. Normas técnicas de Interoperabilidad.
 
 ## Normativa principal

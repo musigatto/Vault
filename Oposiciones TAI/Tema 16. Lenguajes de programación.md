@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 16
+bloque: III
+---
 > Lenguajes de programación. Representación de tipos de datos. Operadores. Instrucciones condicionales. Bucles y recursividad. Procedimientos, funciones y parámetros. Vectores y registros. Estructura de un programa.
 
 ## 1. Lenguajes de Programación

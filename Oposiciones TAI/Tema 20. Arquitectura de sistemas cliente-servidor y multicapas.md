@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 20
+bloque: III
+---
 > Arquitectura de sistemas cliente/servidor y multicapas: componentes y operación. Arquitecturas de servicios web y protocolos asociados.
 
 ## 1. Arquitectura Cliente/Servidor (2 Capas)

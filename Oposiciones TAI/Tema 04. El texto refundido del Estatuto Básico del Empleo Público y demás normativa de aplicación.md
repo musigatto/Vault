@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 4
+bloque: I
+---
 >El texto refundido del Estatuto Básico del Empleo Público y demás normativa de aplicación, derechos y deberes, formas de provisión de puestos, promoción interna y carrera profesional, situaciones administrativas, incompatibilidades y régimen sancionador. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. La Agenda 2030 y los Objetivos de Desarrollo Sostenible
 
 [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)

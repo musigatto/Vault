@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 19
+bloque: III
+---
 > Arquitectura Java EE/Jakarta EE y plataforma.NET: componentes, persistencia y seguridad. Características, elementos, lenguajes y funciones en ambos entornos. Desarrollo de interfaces.
 
 ## 1. Java EE / Jakarta EE

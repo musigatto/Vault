@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 24
+bloque: IV
+---
 > Administración del Sistema operativo y software de base. Actualización, mantenimiento y reparación del sistema operativo.
 
 ## 1. Funciones del Administrador de SO

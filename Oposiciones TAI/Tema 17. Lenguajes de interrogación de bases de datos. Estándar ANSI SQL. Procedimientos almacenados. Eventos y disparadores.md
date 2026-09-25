@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 17
+bloque: III
+---
 > Lenguajes de interrogación de bases de datos. Estándar ANSI SQL. Procedimientos almacenados. Eventos y disparadores.
 
 ## 1. Lenguajes de Interrogación de Bases de Datos

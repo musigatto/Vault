@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 11
+bloque: II
+---
 >Periféricos: conectividad y administración. Elementos de impresión. Elementos de almacenamiento. Elementos de visualización y digitalización.
 
 # 1. Periféricos: concepto y clasificación

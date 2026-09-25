@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 15
+bloque: III
+---
 > Modelado de datos, metodologías y reglas. Entidades, atributos y relaciones. Diseño de bases de datos. Diseño lógico y físico. El modelo lógico relacional. Normalización.
 
 ## 1. Modelado de Datos: Metodologías y Reglas

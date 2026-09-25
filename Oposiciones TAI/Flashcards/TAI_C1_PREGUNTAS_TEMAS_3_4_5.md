@@ -1,3 +1,8 @@
+---
+tipo: preguntas
+temas: [3, 4, 5]
+bloque: I
+---
 # TAI C1 (Turno Libre) — Preguntas Reales por Tema
 
 ## TE MA 3: El Gobierno (CE arts. 97-107) — Composición, nombramiento, cese, funciones, relaciones con Cortes Generales

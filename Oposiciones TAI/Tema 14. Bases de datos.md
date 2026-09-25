@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 14
+bloque: II
+---
 > Bases de datos. Sistemas de gestión de bases de datos. El modelo relacional. El lenguaje SQL. Administración de bases de datos.
 
 ## 1. Bases de Datos: Concepto y Fundamentos

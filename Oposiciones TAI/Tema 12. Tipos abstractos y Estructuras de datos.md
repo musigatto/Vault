@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 12
+bloque: II
+---
 > Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.
 
 ## 1. Tipos Abstractos de Datos (TAD)

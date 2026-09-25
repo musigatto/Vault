@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 22
+bloque: III
+---
 > Accesibilidad, diseño universal y usabilidad. Acceso y usabilidad de las tecnologías, productos y servicios relacionados con la sociedad de la información. Confidencialidad y disponibilidad de la información en puestos de usuario final. Conceptos de seguridad en el desarrollo de los sistemas.
 
 ## 1. Accesibilidad Web
