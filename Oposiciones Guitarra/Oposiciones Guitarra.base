@@ -3,32 +3,35 @@ views:
     name: Temas
     filters:
       and:
-        - 'tipo == "tema"'
+        - tipo == "tema"
     order:
+      - numero
       - file.name
-      - note.numero
-      - note.bloque
+      - bloque
       - file.mtime
+    columnSize:
+      note.numero: -19
+      file.name: 506
   - type: table
     name: Por bloques
     filters:
       and:
-        - 'tipo == "tema"'
+        - tipo == "tema"
     groupBy:
-      property: note.bloque
+      property: bloque
       direction: ASC
     order:
       - file.name
-      - note.numero
+      - numero
       - file.mtime
   - type: table
     name: Revisar Tema 25
     filters:
       and:
-        - 'tipo == "alternativa"'
-        - 'numero == 25'
+        - tipo == "alternativa"
+        - numero == 25
     order:
       - file.name
-      - note.numero
-      - note.estado
+      - numero
+      - estado
       - file.mtime

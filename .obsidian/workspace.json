@@ -11,13 +11,15 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Oposiciones Guitarra.base",
-                "viewName": "Temas"
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Oposiciones Guitarra"
+              "icon": "lucide-file",
+              "title": "Tema 01. Historia General de la Guitarra"
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto/Phases.canvas",
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +97,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phases"
+              "title": "Backlinks"
             }
           },
           {
@@ -104,27 +106,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto/Phases.canvas",
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Phases"
-            }
-          },
-          {
-            "id": "991fd7ebafe24da6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outgoing links"
             }
           },
           {
@@ -133,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serradilla_alberto_ejercicioOSINT.md",
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of serradilla_alberto_ejercicioOSINT"
+              "title": "Outline"
             }
           },
           {
@@ -148,7 +135,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "README.md"
+                "file": "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -163,37 +150,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "db27f0d37de7b313",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "add3c26d8921029f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 239.13427734375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +172,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d4547140d4916c17",
+  "active": "30c66a756c80d7ae",
   "lastOpenFiles": [
-    "Oposiciones Guitarra/Tema 34. TIC.md",
+    "Oposiciones Guitarra/Oposiciones Guitarra.base",
+    "Oposiciones Guitarra/Tema 23. La guitarra como instrumento acompañante, tanto en las tradiciones populares como en la música culta.md",
+    "Oposiciones Guitarra/0. Temas Oposiciones.md",
+    "Oposiciones Guitarra/Tema 26. Criterios y repertorio.md",
+    "Oposiciones Guitarra/Tema 15. La escuela española.md",
+    "Oposiciones Guitarra/Tema 11. El repertorio de laúd renacentista, su estilo y notación.md",
+    "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Oposiciones Guitarra/Programación Didáctica.md",
+    "Oposiciones Guitarra/Tema 34. TIC.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones Guitarra/Tema 05. La técnica de la guitarra.md",
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Oposiciones Guitarra/Tema 07. Evolución de las diferentes escuelas y métodos.md",
-    "Oposiciones Guitarra/Tema 08. Los diferentes métodos, colecciones de estudios, ejercicios y otros materiales pedagógicos.md",
     "Oposiciones Guitarra/Tema 09. El repertorio de vihuela, su estilo y notación.md",
     "Oposiciones Guitarra/Tema 16. Escuelas no españolas.md",
     "Oposiciones Guitarra/Tema 17. Siglo XIX.md",
     "Oposiciones Guitarra/Tema 18. Siglo XX.md",
     "Oposiciones Guitarra/Tema 20. Práctica de grupo en EEEE.md",
     "Oposiciones Guitarra/Tema 21. Práctica de grupo en EEPP.md",
-    "Oposiciones Guitarra/Tema 23. La guitarra como instrumento acompañante, tanto en las tradiciones populares como en la música culta.md",
     "Oposiciones Guitarra/Tema 25. Metodología.md",
     "Oposiciones Guitarra/Tema 25_2. Revisar.md",
-    "Oposiciones Guitarra/Tema 26. Criterios y repertorio.md",
     "Oposiciones Guitarra/Tema 28. Autonomía en el estudio.md",
     "Oposiciones Guitarra/Tema 29. Improvisación.md",
     "Oposiciones Guitarra/Tema 30. Lectura a primera vista.md",
-    "Oposiciones Guitarra/Oposiciones Guitarra.base",
-    "Oposiciones Guitarra/0. Temas Oposiciones.md",
-    "Oposiciones Guitarra/Tema 15. La escuela española.md",
-    "Oposiciones Guitarra/Tema 24. La transcripción.md",
-    "Oposiciones Guitarra/Tema 25_1. Revisar.md",
     "Enigma2086",
     "Beethoven/attachments/{1D881C69-9EF6-4A16-AD3D-8355722F4FED}.png",
     "Beethoven/attachments/{656F842A-F0C7-4E40-9D7C-98BD0C43BDF3}.png",
