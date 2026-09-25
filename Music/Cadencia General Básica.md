@@ -6,54 +6,37 @@
 ![](attachments/Cadencia_General_Bsica.jpg)
 
 $$
-\begin{gathered}
-I - V - I \\[6pt]
-I - IV - V - I \\[6pt]
-I - IV - ii - V - I \\[6pt]
-I - vi - IV - ii - V - I \\[6pt]
-I - vi - IV - ii - V^6_4 - V^7_+ - I \\[6pt]
-I - vi - IV - ii - II^7_+ - V^6_4 - V^7_+ - I \\[12pt]
+\begin{aligned}
+&I - V - I \\[4pt]
+&I - IV - V - I \\[4pt]
+&I - IV - ii - V - I \\[4pt]
+&I - vi - IV - ii - V - I \\[4pt]
+&I - vi - IV - ii - V^6_4 - V^7_+ - I \\[4pt]
+&I - vi - IV - ii - II^7_+ - V^6_4 - V^7_+ - I \\[8pt]
 
-\begin{array}{ll}
-\text{Mayores:} &
-\left\{
-\begin{array}{l}
-I - vi - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I
-\end{array}
-\right.
-\\[12pt]
+&\text{Mayores:} \\[4pt]
+&I - vi - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I \\[8pt]
 
-\text{Menores:} &
-\left\{
-\begin{array}{l}
-I - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - V^{\frac{9-8}{7_+}} - I
-\end{array}
-\right.
-\\[12pt]
+&\text{Menores:} \\[4pt]
+&I - VI - VI^7_+ - \flat II^6 - \flat II^7_+
+- V^{9-8}_{7_+} - I \\[8pt]
 
-\text{Mayores:} &
-\left\{
-\begin{array}{l}
-I - iii - III^7_+ - VI - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I
-\end{array}
-\right.
-\\[12pt]
+&\text{Mayores:} \\[4pt]
+&I - iii - III^7_+ - VI - VI^7_+ - ii - II^7_+
+- V^6_4 - V^7_+ - I \\[8pt]
 
-\text{Menores:} &
-\left\{
-\begin{array}{l}
-I - iii - III^7_+ - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - V^{\frac{9-8}{7_+}} - I
-\end{array}
-\right.
-\end{array}
-\end{gathered}
+&\text{Menores:} \\[4pt]
+&I - iii - III^7_+ - VI - VI^7_+ - \flat II^6
+- \flat II^7_+ - V^{9-8}_{7_+} - I
+\end{aligned}
 $$
 
 ## No CGB
+
 $$
-\begin{gathered}
-i - \flat VII - \flat VI - V \\[6pt]
-i - \flat III - V - \flat VII - i \\[6pt]
-i - \flat II^6 - \flat III - V - i
-\end{gathered}
+\begin{aligned}
+&i - \flat VII - \flat VI - V \\[4pt]
+&i - \flat III - V - \flat VII - i \\[4pt]
+&i - \flat II^6 - \flat III - V - i
+\end{aligned}
 $$

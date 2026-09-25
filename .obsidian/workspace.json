@@ -179,8 +179,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "53666c352e1ee2ef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,17 +205,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d4547140d4916c17",
+  "active": "54860b64a846bba8",
   "lastOpenFiles": [
+    "Music/Cadencia General Básica.md",
     "Music/Reducción Orquestal y Preludios.md",
     "Music/Modos “griegos”.md",
     "Music/Jazz.md",
     "Music/Flamenco Dominantes y palos.md",
     "Music/Escalas.md",
-    "Music/Cadencia General Básica.md",
     "Music/Sonatina clásica.md",
     "Music/Tipos de Variaciones.md",
     "Music/Tipos de ritmos.md",
