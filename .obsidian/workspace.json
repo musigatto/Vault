@@ -11,15 +11,15 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Santander.md",
-                "bFile": "Santander.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "serradilla_alberto_ejercicioOSINT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Santander  (Index)"
+              "icon": "lucide-file",
+              "title": "serradilla_alberto_ejercicioOSINT"
             }
           }
         ]
@@ -208,14 +208,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "d4547140d4916c17",
   "lastOpenFiles": [
     "Santander.md",
+    "serradilla_alberto_ejercicioOSINT.md",
     "conflict-files-obsidian-git.md",
-    "Santander.md",
     "Music/Cadencia General Básica.md",
     "Music/Reducción Orquestal y Preludios.md",
     "Music/Modos “griegos”.md",
@@ -239,8 +240,6 @@
     "Oposiciones Guitarra/Tema 06. La técnica moderna de la guitarra.md",
     "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
-    "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Oposiciones Guitarra/Tema 25. Metodología.md",
     "Enigma2086",
     "Beethoven/attachments/{1D881C69-9EF6-4A16-AD3D-8355722F4FED}.png",
     "Beethoven/attachments/{656F842A-F0C7-4E40-9D7C-98BD0C43BDF3}.png",
