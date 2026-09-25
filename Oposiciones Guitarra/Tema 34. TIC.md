@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 34
+bloque: metodologia_competencias
+---
 # Las tecnologías de la información y de la comunicación aplicadas a la enseñanza y el aprendizaje del instrumento. Importancia de la utilización del software musical y de la selección de los recursos de internet.
 
 ## Índice

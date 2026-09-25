@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 3
+bloque: fundamentos
+---
 # Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada. Peculiaridades derivadas del modo de producción del sonido. Afinación. Fundamentos teóricos de los sonidos armónicos. Armónicos naturales y artificiales. Formas convencionales y no convencionales de producción del sonido.
 ## Índice:
 1. [Características sonoras del instrumento. Principios físicos de la producción del sonido en los instrumentos de cuerda pulsada](#Características%20sonoras%20del%20instrumento.%20Principios%20físicos%20de%20la%20producción%20del%20sonido%20en%20los%20instrumentos%20de%20cuerda%20pulsada)

@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 8
+bloque: fundamentos
+---
 # Valoración de su utilidad para el aprendizaje de los distintos aspectos de la técnica. Bibliografía especializada relacionada con el instrumento y su didáctica.
 ## Índice:
 1. [Introducción](#Introducción)

@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 20
+bloque: practica_didactica
+---
 # La práctica de grupo en las enseñanzas elementales. Programación de las actividades colectivas en este nivel: repertorio, conceptos relativos al lenguaje musical, técnica de interpretación en grupo, audición, improvisación y otros aspectos.
 
 ## Índice

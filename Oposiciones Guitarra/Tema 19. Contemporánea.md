@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 19
+bloque: repertorio_historico
+---
 # Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico desde la segunda mitad del siglo XX hasta nuestros días. Nuevos recursos compositivos, formales, interpretativos y de notación.
 
 ## Índice

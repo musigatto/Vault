@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 14
+bloque: repertorio_historico
+---
 # Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XVIII. Criterios de transcripción para guitarra de seis cuerdas
 
 ## Índice

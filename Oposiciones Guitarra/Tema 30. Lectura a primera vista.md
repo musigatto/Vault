@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 30
+bloque: metodologia_competencias
+---
 # La lectura a primera vista. Técnicas, estrategias, análisis aplicado, métodos. Criterios para la selección del repertorio adecuado a cada nivel.
 
 ## Índice

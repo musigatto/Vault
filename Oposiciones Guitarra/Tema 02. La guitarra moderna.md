@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 2
+bloque: fundamentos
+---
 # Descripción de sus elementos característicos. Mantenimiento, conservación y accesorios. Aspectos fundamentales en la elección del instrumento.
 
 ## Índice:

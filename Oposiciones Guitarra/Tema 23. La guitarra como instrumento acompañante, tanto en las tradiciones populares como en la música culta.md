@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 23
+bloque: practica_didactica
+---
 # La guitarra como instrumento acompañante, tanto en las tradiciones populares como en la música culta. Características del repertorio y su interpretación.
 
 ## Índice

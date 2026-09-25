@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 6
+bloque: fundamentos
+---
 # Principios fundamentales. Aportación al desarrollo de la técnica moderna de los grandes instrumentistas y pedagogos.
 ## Índice:
 1. [La técnica moderna de la guitarra: principios fundamentales](#La%20técnica%20moderna%20de%20la%20guitarra%20principios%20fundamentales)

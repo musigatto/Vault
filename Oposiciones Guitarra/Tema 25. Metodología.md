@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 25
+bloque: metodologia_competencias
+---
 # Descripción y estudio comparado de los sistemas metodológicos más importantes de iniciación al instrumento. Criterios didácticos para la selección de repertorio a nivel inicial.
 
 ## Índice

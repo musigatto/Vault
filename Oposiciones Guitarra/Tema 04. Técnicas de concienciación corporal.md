@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 4
+bloque: fundamentos
+---
 # Relajación física y mental, concentración, hábitos posturales, respiración, control y visualización mental, miedo escénico. Aspectos anatómicos y fisiomecánicos más importantes en relación con la técnica de la guitarra. Colocación del cuerpo y del instrumento.
 ## Índice:
 1. [Técnicas de concienciación corporal: relajación física y mental, concentración, hábitos posturales, respiración, control y visualización mental, miedo escénico](#Técnicas%20de%20concienciación%20corporal%20relajación%20física%20y%20mental,%20concentración,%20hábitos%20posturales,%20respiración,%20control%20y%20visualización%20mental,%20miedo%20escénico)  

@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 31
+bloque: metodologia_competencias
+---
 # La memoria. La educación de la memoria como base para la formación del oído interno y su desarrollo progresivo. Memoria sensorial. Tipos de memoria. Factores en el uso de la memoria. La memoria como elemento imprescindible en los diferentes aspectos que conforman el estudio del instrumento. Técnicas de memorización.
 
 ## Índice

@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 10
+bloque: repertorio_historico
+---
 # Tablaturas, criterios de transcripción y de edición.
 ## Índice:
 1. [Repertorio de guitarra renacentista](#Repertorio%20de%20guitarra%20renacentista)

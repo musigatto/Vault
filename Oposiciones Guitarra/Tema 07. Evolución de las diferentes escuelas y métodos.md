@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 7
+bloque: fundamentos
+---
 # Evolución de las diferentes escuelas y métodos específicos de los instrumentos de cuerda pulsada. Estudio comparativo de las concepciones estéticas, teóricas y técnicas de las diferentes escuelas.
 ## Índice:
 1. [Evolución de las diferentes escuelas y sus métodos, así como concepciones estéticas, teóricas y técnicas](#Evolución%20de%20las%20diferentes%20escuelas%20y%20sus%20métodos,%20así%20como%20concepciones%20estéticas,%20teóricas%20y%20técnicas)

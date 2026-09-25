@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 24
+bloque: practica_didactica
+---
 # La transcripción: Conceptos generales, antecedentes históricos, criterios sobre la interpretación de transcripciones. Transcripciones del repertorio de otros instrumentos y de diferentes agrupaciones instrumentales.
 
 ## Índice

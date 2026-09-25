@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 28
+bloque: metodologia_competencias
+---
 # Métodos de trabajo y el desarrollo de la autonomía en el estudio. El desarrollo de la capacidad del alumno para que encuentre soluciones propias a las dificultades del texto musical. Estrategias adecuadas.
 
 ## Índice

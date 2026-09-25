@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 32
+bloque: metodologia_competencias
+---
 # Interdisciplinariedad en los estudios. La relación que conforman entre sí las diferentes asignaturas del currículo.
 
 ## Índice

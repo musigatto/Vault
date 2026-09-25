@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 17
+bloque: repertorio_historico
+---
 # Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico de la segunda mitad del siglo XIX
 ## Índice
 

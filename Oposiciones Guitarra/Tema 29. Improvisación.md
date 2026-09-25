@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 29
+bloque: metodologia_competencias
+---
 # Principios de improvisación en el instrumento: recursos, materiales y procedimientos. La improvisación dirigida o libre. Uso de nuevos lenguajes y notaciones en la improvisación.
 
 ## Índice

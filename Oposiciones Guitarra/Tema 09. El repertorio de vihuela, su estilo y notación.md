@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 9
+bloque: repertorio_historico
+---
 # Tablaturas, criterios de transcripción y de edición
 ## Índice:
 1. [Introducción](#Introducción)

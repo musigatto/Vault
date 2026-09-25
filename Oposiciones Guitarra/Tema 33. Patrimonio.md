@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 33
+bloque: metodologia_competencias
+---
 # La música como patrimonio histórico-artístico cultural. La relación de la música con las corrientes estéticas y con las demás artes. Responsabilidad docente en su valoración, preservación y transmisión a las actuales y a las futuras generaciones.
 
 ## Índice

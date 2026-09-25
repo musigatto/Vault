@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 27
+bloque: metodologia_competencias
+---
 # La creatividad y su desarrollo. La creatividad aplicada a todos los aspectos del desarrollo instrumental: técnica, capacidad expresiva o comunicativa, inteligencia musical y personalidad artística. El desarrollo del espíritu emprendedor: cualidades, habilidades, actitudes y valores que engloba el espíritu emprendedor.
 
 ## Índice

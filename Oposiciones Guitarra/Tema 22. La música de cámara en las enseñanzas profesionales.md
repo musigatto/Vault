@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 22
+bloque: practica_didactica
+---
 # La música de cámara en las enseñanzas profesionales. Programación de esta asignatura: repertorio, análisis, técnica de interpretación en grupo, audición, improvisación, lectura a primera vista y otros. Criterios pedagógicos para la elección del repertorio.
 
 ## Índice

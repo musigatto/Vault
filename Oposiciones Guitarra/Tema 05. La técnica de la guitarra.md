@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 5
+bloque: fundamentos
+---
 # Principios fundamentales. La función de las distintas partes de cada brazo en la técnica de la guitarra.
 ## Índice:
 1. [La técnica de la guitarra: principios fundamentales](#La%20técnica%20de%20la%20guitarra%20principios%20fundamentales)

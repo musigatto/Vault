@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 13
+bloque: repertorio_historico
+---
 # Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio para laúd en el barroco. Tablaturas, criterios de transcripción. La obra para laúd de J. S. Bach
 ## Índice
 1. [Introducción](#Introducción)

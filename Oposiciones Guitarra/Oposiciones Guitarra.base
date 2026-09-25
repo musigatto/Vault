@@ -1,0 +1,34 @@
+views:
+  - type: table
+    name: Temas
+    filters:
+      and:
+        - 'tipo == "tema"'
+    order:
+      - file.name
+      - note.numero
+      - note.bloque
+      - file.mtime
+  - type: table
+    name: Por bloques
+    filters:
+      and:
+        - 'tipo == "tema"'
+    groupBy:
+      property: note.bloque
+      direction: ASC
+    order:
+      - file.name
+      - note.numero
+      - file.mtime
+  - type: table
+    name: Revisar Tema 25
+    filters:
+      and:
+        - 'tipo == "alternativa"'
+        - 'numero == 25'
+    order:
+      - file.name
+      - note.numero
+      - note.estado
+      - file.mtime

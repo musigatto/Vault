@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 26
+bloque: metodologia_competencias
+---
 # Criterios didácticos para la selección del repertorio en las enseñanzas elementales y profesionales
 
 ## Índice

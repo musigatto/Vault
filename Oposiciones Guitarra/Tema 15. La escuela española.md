@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 15
+bloque: repertorio_historico
+---
 # Características, referidas a la evolución del estilo y de la escritura instrumental, del repertorio guitarrístico clásico-romántico I: La escuela española
 ## Índice
 

@@ -1,3 +1,8 @@
+---
+tipo: tema
+numero: 11
+bloque: repertorio_historico
+---
 # Escuelas nacionales. Tablaturas, criterios de transcripción y de edición
 ## Índice:
 1. [Introducción](#Introducción)
