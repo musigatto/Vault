@@ -19,18 +19,12 @@ $$I - vi - IV - ii - II^7_+ - V^6_4 - V^7_+ - I$$
 
 **Mayores**
 
-$$I - vi - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I$$
+$$\text{Mayores: }I - vi - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I$$
 
-**Menores**
+$$\text{Menores: }I - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - V^{9-8}_{7+} - I$$
 
-$$\text{asda }I - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - V^{9-8}_{7+} - I$$
-
-**Mayores**
-$$I - iii - III^7_+ - VI - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I$$
-
-**Menores**
-
-$$I - iii - III^7_+ - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - V^{9-8}_{7+} - I$$
+$$\text{Mayores: }I - iii - III^7_+ - VI - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I$$
+$$\text{Menores: }I - iii - III^7_+ - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - V^{9-8}_{7+} - I$$
 ## No CGB
 
 $$i - \flat VII - \flat VI - V$$

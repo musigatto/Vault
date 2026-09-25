@@ -15,7 +15,7 @@
               "state": {
                 "file": "Music/Cadencia General Básica.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -211,7 +211,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "d4547140d4916c17",
   "lastOpenFiles": [
     "Music/Cadencia General Básica.md",
     "Music/Reducción Orquestal y Preludios.md",
