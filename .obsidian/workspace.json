@@ -11,15 +11,15 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Santander.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Santander.md",
+                "bFile": "Santander.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Santander"
+              "icon": "diff",
+              "title": "Diff: Santander  (Index)"
             }
           }
         ]
@@ -186,8 +186,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -205,11 +205,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d4547140d4916c17",
+  "active": "8f067c788f8932db",
   "lastOpenFiles": [
+    "Santander.md",
+    "conflict-files-obsidian-git.md",
     "Santander.md",
     "Music/Cadencia General Básica.md",
     "Music/Reducción Orquestal y Preludios.md",
@@ -235,9 +240,7 @@
     "Oposiciones Guitarra/Tema 03. Características sonoras del instrumento.md",
     "Oposiciones Guitarra/Tema 02. La guitarra moderna.md",
     "Oposiciones Guitarra/Tema 01. Historia General de la Guitarra.md",
-    "Untitled.md",
     "Oposiciones Guitarra/Tema 25. Metodología.md",
-    "Oposiciones Guitarra/Tema 25_2. Revisar.md",
     "Enigma2086",
     "Beethoven/attachments/{1D881C69-9EF6-4A16-AD3D-8355722F4FED}.png",
     "Beethoven/attachments/{656F842A-F0C7-4E40-9D7C-98BD0C43BDF3}.png",
