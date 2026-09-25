@@ -25,9 +25,7 @@ $$I - vi - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I$$
 
 $$I - VI - VI^7_+ - \flat II^6 - \flat II^7_+ - V^{9-8}_{7+} - I$$
 
-**Mayores**
-
-$$I - iii - III^7_+ - VI - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I$$
+**Mayores**: $$I - iii - III^7_+ - VI - VI^7_+ - ii - II^7_+ - V^6_4 - V^7_+ - I$$
 
 **Menores**
 
