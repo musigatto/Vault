@@ -9,9 +9,17 @@ views:
       - file.name
       - bloque
       - file.mtime
+    sort:
+      - property: tipo
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
     columnSize:
       note.numero: -19
       file.name: 506
+      file.mtime: 187
   - type: table
     name: Por bloques
     filters:
