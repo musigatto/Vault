@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"Module 02 — Administrative Network Security\nPolicy flow · ITAM · Compliance","x":-360,"y":-700,"width":280,"height":60,"color":"5"},
+		{"id":"step1","type":"text","text":"1 Risk Assessment\nidentify risks, severity,\ncriticality to assets","x":-680,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step2","type":"text","text":"2 Standard Guidelines\nlearn from standards\n+ other orgs","x":-440,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step3","type":"text","text":"3 Management Input\nsenior mgmt + staff —\npolicy is illegal without it","x":-200,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step4","type":"text","text":"4 Penalties\nset clear penalties\n+ enforce them","x":40,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step5","type":"text","text":"5 Final Draft\npublish to everyone\nin the org","x":280,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step6","type":"text","text":"6 Read & Sign\nevery member reads,\nsigns, understands","x":520,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step7","type":"text","text":"7 Deployment\ndeploy tools to\nenforce policies","x":760,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step8","type":"text","text":"8 Training\ntrain & educate\n(new + periodic)","x":1000,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"step9","type":"text","text":"9 Review & Update\nnew technologies ·\nbreach lessons","x":1240,"y":-500,"width":240,"height":90,"color":"1"},
+		{"id":"poltitle","type":"text","text":"Security Policy Creation & Implementation","x":-680,"y":-680,"width":400,"height":50,"color":"6"},
+		{"id":"poltypes","type":"text","text":"Policy Types\nEISP — enterprise scope/direction\nISSP — issue-specific (AUP, password…)\nSSSP — system-specific (DMZ, servers)","x":-680,"y":-240,"width":400,"height":120,"color":"2"},
+		{"id":"webpol","type":"text","text":"Internet Access Policies\nPromiscuous — nothing restricted\nPermissive — block known only\nParanoid — everything forbidden\nPrudent — block all, enable needed, log","x":-200,"y":-240,"width":400,"height":120,"color":"2"},
+		{"id":"doccontent","type":"text","text":"Policy Document\nOverview · Purpose · Scope · Definitions\nRoles & Respons. · Target Audience\nPolicy Statements · Sanctions & Violations\nContact Info · Version · Glossary","x":280,"y":-240,"width":400,"height":130,"color":"2"},
+		{"id":"cardpol","type":"text","text":"15+ Specific Policies\nAUP · User Account · Remote Access\nInformation Protection · Firewall Mgmt\nSpecial Access · Network Connection\nBusiness Partner · Email · Password\nPhysical · Info System · BYOD\nSoftware · Backup · Confidential Data\nData Classification · Internet Usage\nServer · Wireless · Access Control\nSwitch · IDS/IPS · Encryption · Router","x":760,"y":-240,"width":420,"height":160,"color":"4"},
+		{"id":"itam_title","type":"text","text":"ITAM Process + Types","x":-680,"y":120,"width":380,"height":50,"color":"6"},
+		{"id":"itam1","type":"text","text":"1 Identification &\nCategorization\ndiscover + document assets\ngroup: type · usage · location\nowner · lifecycle · license\n(+ Lansweeper discovery)","x":-880,"y":220,"width":280,"height":140,"color":"1"},
+		{"id":"itam2","type":"text","text":"2 Asset Tracking\ncontinuous monitoring\nvia ITAM tool\nreal-time notifications\nname · serial · warranty · SLA","x":-560,"y":220,"width":280,"height":140,"color":"1"},
+		{"id":"itam3","type":"text","text":"3 Asset Maintenance\nreactive + preventive\nlog all activities\nin ITAM system","x":-240,"y":220,"width":280,"height":140,"color":"1"},
+		{"id":"itamtypes","type":"text","text":"ITAM Types\nPhysical/Hardware · Software\nNetwork (routers/firewalls/switches/WAPs)\nDigital (docs, media, financials)\nMobile Device · Cloud\nComponents: Financial · Physical · Contractual","x":160,"y":220,"width":400,"height":150,"color":"2"},
+		{"id":"itamtools","type":"text","text":"ITAM Tools\nLansweeper · Ivanti Neurons\nSolarWinds Service Desk · ServiceNow\nIBM Maximo · SyAM\nAssetSonar · ManageEngine AssetExplorer","x":640,"y":220,"width":340,"height":140,"color":"4"},
+		{"id":"compltitle","type":"text","text":"Compliance Hierarchy + Frameworks","x":-680,"y":520,"width":400,"height":50,"color":"6"},
+		{"id":"hier","type":"text","text":"Frameworks → Policies → Standards\n→ Procedures/Guidelines","x":-880,"y":620,"width":400,"height":90,"color":"3"},
+		{"id":"frameworks","type":"text","text":"PCI-DSS · HIPAA · GDPR · SOX · GLBA\nISO/IEC 27k · DMCA · FISMA\nCISA · CFAA (18 USC 1030)\nECPA · FOIA · Copyright/Lanham Acts","x":-400,"y":620,"width":420,"height":120,"color":"4"},
+		{"id":"aware","type":"text","text":"Security Awareness Training\nclassroom · online · roundtable · web\nCGI hints · short films · seminars\nData classification levels:\nTop Secret → Secret → Confidential\n→ Restricted → Official → Unclassified","x":100,"y":620,"width":400,"height":130,"color":"2"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"step1","fromSide":"right","toNode":"step2","toSide":"left"},
+		{"id":"e2","fromNode":"step2","fromSide":"right","toNode":"step3","toSide":"left"},
+		{"id":"e3","fromNode":"step3","fromSide":"right","toNode":"step4","toSide":"left"},
+		{"id":"e4","fromNode":"step4","fromSide":"right","toNode":"step5","toSide":"left"},
+		{"id":"e5","fromNode":"step5","fromSide":"right","toNode":"step6","toSide":"left"},
+		{"id":"e6","fromNode":"step6","fromSide":"right","toNode":"step7","toSide":"left"},
+		{"id":"e7","fromNode":"step7","fromSide":"right","toNode":"step8","toSide":"left"},
+		{"id":"e8","fromNode":"step8","fromSide":"right","toNode":"step9","toSide":"left"},
+		{"id":"e9","fromNode":"itam1","fromSide":"right","toNode":"itam2","toSide":"left"},
+		{"id":"e10","fromNode":"itam2","fromSide":"right","toNode":"itam3","toSide":"left"}
+	]
+}

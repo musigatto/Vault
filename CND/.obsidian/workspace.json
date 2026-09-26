@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "30ebd03adee8f0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "08dd17f1c582ec9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559bd0d1b507dc74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Exam/Question-Bank.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Question-Bank"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "816a9a5f3a9094bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "998759c013508b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4e72b32a26ca2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68fa16681a022409",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c79f188eb8f3a44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "576a7cd0da0b33a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c761c3657c60e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "677ebfab11f89a7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20-Notes/Module-01/01-Application-Level-Attacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9999b69028a40353",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20-Notes/Module-01/01-Application-Level-Attacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7a54cbf8e2ff38a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2940d48db73b8f25",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9bab6fec4cc6fbf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20-Notes/Module-01/01-Application-Level-Attacks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "559bd0d1b507dc74",
+  "lastOpenFiles": [
+    "30-Exam/Mock-Exam-100.md",
+    "30-Exam/Answer-Key.md",
+    "20-Notes/Module-02/02-LO07-Security-Trends-and-Threats.md",
+    "20-Notes/Module-02/02-LO06-Asset-Management.md",
+    "20-Notes/Module-02/02-LO05-Admin-Security-Measures.md",
+    "20-Notes/Module-02/02-LO04-Security-Awareness-Training.md",
+    "20-Notes/Module-02/02-LO03b-Security-Policy-Documents.md",
+    "20-Notes/Module-02/02-LO03a-Security-Policy-Fundamentals.md",
+    "20-Notes/Module-02/02-LO02b-ISO-Standards-DMCA-FISMA-Cyber-Laws.md",
+    "20-Notes/Module-02/02-LO02a-Regulatory-Frameworks-Laws.md",
+    "20-Notes/Module-02/02-LO01-Regulatory-Frameworks-Compliance.md",
+    "20-Notes/Module-01/01-LO02-Network-Level-Attacks.md",
+    "20-Notes/Module-04/04-LO01-Firewall-Concerns-Capabilities-Limitations.md",
+    "10-MOCs/MOC-Module-04.md",
+    "10-MOCs/MOC-Module-03.md",
+    "10-MOCs/MOC-Module-02.md",
+    "10-MOCs/MOC-Module-05.md",
+    "10-MOCs/MOC-Module-06.md",
+    "10-MOCs/MOC-Module-07.md",
+    "10-MOCs/MOC-Module-08.md",
+    "10-MOCs/MOC-Module-01.md",
+    "50-Templates/Atomic-Note.md",
+    "30-Exam/Question-Bank.md",
+    "40-Canvas/03-technical-network-security-map.canvas",
+    "40-Canvas/02-security-policy-flow.canvas",
+    "40-Canvas/01-attack-and-defense-strategies.canvas",
+    "20-Notes/Module-03/03-LO01-Access-Control-Models.md",
+    "20-Notes/Module-01/01-LO01-Essential-Terminologies.md",
+    "20-Notes/Module-01/01-LO06-Mobile-Device-Attacks.md"
+  ]
+}
