@@ -50,6 +50,9 @@
       },
       "the-dm-compendium": {
         "startupType": "instant"
+      },
+      "atlas-vtt": {
+        "startupType": "disabled"
       }
     }
   }

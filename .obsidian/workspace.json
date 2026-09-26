@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -208,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f067c788f8932db",
+  "active": "53666c352e1ee2ef",
   "lastOpenFiles": [
-    "Santander.md",
+    "atlas-vtt",
     "serradilla_alberto_ejercicioOSINT.md",
+    "Santander.md",
     "conflict-files-obsidian-git.md",
     "Music/Cadencia General Básica.md",
     "Music/Reducción Orquestal y Preludios.md",
