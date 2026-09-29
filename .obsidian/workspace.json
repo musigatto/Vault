@@ -11,15 +11,10 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CND/30-Exam/Question-Bank.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Question-Bank"
+              "title": "New tab"
             }
           }
         ]
@@ -191,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -205,11 +200,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54860b64a846bba8",
+  "active": "53666c352e1ee2ef",
   "lastOpenFiles": [
+    "CND/30-Exam/Question-Bank.md",
     "CND/30-Exam/Mock-Exam-100.md",
     "CND/30-Exam/Answer-Key.md",
     "CND/20-Notes/Module-01/01-LO01-Essential-Terminologies.md",
@@ -229,7 +228,6 @@
     "CND/40-Canvas/03-technical-network-security-map.canvas",
     "CND/40-Canvas/02-security-policy-flow.canvas",
     "CND/40-Canvas",
-    "CND/30-Exam/Question-Bank.md",
     "CND/30-Exam",
     "CND/20-Notes/Module-20",
     "CND/20-Notes/Module-19",
