@@ -11,10 +11,15 @@
             "id": "d4547140d4916c17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oposiciones Guitarra/Tema 31. Memoria.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tema 31. Memoria"
             }
           }
         ]
@@ -203,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53666c352e1ee2ef",
+  "active": "d4547140d4916c17",
   "lastOpenFiles": [
     "CND/30-Exam/Question-Bank.md",
     "CND/30-Exam/Mock-Exam-100.md",
