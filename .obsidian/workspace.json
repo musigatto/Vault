@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oposiciones Guitarra/Tema 31. Memoria.md",
-                "mode": "source",
-                "source": false,
+                "file": "Music/Tipos de ritmos.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tema 31. Memoria"
+              "title": "Tipos de ritmos"
             }
           }
         ]
@@ -186,8 +186,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -205,11 +205,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "d4547140d4916c17",
   "lastOpenFiles": [
+    "Music/Tipos de Variaciones.md",
+    "Music/Tipos de ritmos.md",
+    "Music/Tipos de impro en guitarra.md",
+    "Music/Sonatina clásica.md",
+    "Music/Reducción Orquestal y Preludios.md",
+    "Music/Modos “griegos”.md",
+    "Music/Jazz.md",
+    "Music/Flamenco Dominantes y palos.md",
+    "Music/Escalas.md",
+    "Music/Cadencia General Básica.md",
+    "Music/1. Guía de Estudio Musical.md",
+    "Music/0. Navigation.md",
+    "Oposiciones Guitarra/Tema 31. Memoria.md",
     "CND/30-Exam/Question-Bank.md",
     "CND/30-Exam/Mock-Exam-100.md",
     "CND/30-Exam/Answer-Key.md",
@@ -223,7 +239,6 @@
     "CND/00-Home.md",
     "CND/50-Templates/MOC-Template.md",
     "CND/50-Templates/Exam-Question-Template.md",
-    "CND/50-Templates/Atomic-Note.md",
     "CND/50-Templates",
     "CND/40-Canvas/04-network-perimeter-map.canvas",
     "CND/40-Canvas/01-attack-and-defense-strategies.canvas",
@@ -238,18 +253,6 @@
     "CND/20-Notes/Module-16",
     "CND/20-Notes/Module-15",
     "CND/20-Notes/Module-14",
-    "CND/20-Notes/Module-04/04-LO17-Software-Defined-Perimeter.md",
-    "CND/20-Notes/Module-04/04-LO16-Router-Switch-Security.md",
-    "CND/20-Notes/Module-04/04-LO15-NIDS-HIDS-Solutions.md",
-    "CND/20-Notes/Module-04/04-LO14-IDS-IPS-Selection-Considerations.md",
-    "CND/20-Notes/Module-04/04-LO13-False-Positive-Negative-Alerts.md",
-    "CND/20-Notes/Module-04/04-LO12-IDs-Deployment-Network-Host.md",
-    "CND/20-Notes/Module-04/04-LO11-IDS-Components.md",
-    "CND/20-Notes/Module-04/04-LO10-IDS-Classification.md",
-    "CND/20-Notes/Module-04/04-LO09-IDS-Role-Capabilities-Limitations.md",
-    "CND/20-Notes/Module-04/04-LO08-Firewall-Administration.md",
-    "CND/20-Notes/Module-04/04-LO07-Secure-Firewall-Implementation-Best-Practices.md",
-    "CND/20-Notes/Module-04/04-LO06-Firewall-Implementation-Deployment.md",
     "Beethoven/attachments/{1D881C69-9EF6-4A16-AD3D-8355722F4FED}.png",
     "Beethoven/attachments/{656F842A-F0C7-4E40-9D7C-98BD0C43BDF3}.png",
     "Beethoven/attachments/{49412EA5-E09E-40FB-9DC6-0B0299C1B2D2}.png",
