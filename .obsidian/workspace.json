@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Music/Tipos de ritmos.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
